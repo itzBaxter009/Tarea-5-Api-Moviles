@@ -1,0 +1,7 @@
+{
+  "name": "Tarea 5 Camara,gps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
